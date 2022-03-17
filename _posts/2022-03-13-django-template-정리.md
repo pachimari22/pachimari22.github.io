@@ -1,3 +1,8 @@
+---
+layout: post
+title: django template 정리
+---
+
 # Template
 
 [템플릿 | Django 문서 | Django (djangoproject.com)](https://docs.djangoproject.com/ko/4.0/topics/templates/)
